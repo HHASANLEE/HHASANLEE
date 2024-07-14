@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Hasan
+- 👀 I’m interested in  AI, Machine Learning, Deep Learning and Data Science
+- 🌱 I’m currently learning AI and ML technologies
+- 💞️ I’m looking to collaborate on open-source AI projects and ML,DL research
+- 📫 How to reach me hhesenli841@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring the intersection of technology and art through generative algorithms, and I'm also fascinated by philosophy and quantum physics.
